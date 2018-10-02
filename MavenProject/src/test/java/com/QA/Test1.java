@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 public class Test1 extends CrossBrowserTest {
 
-	@Test//test
+	@Test
 	public void setup()
 	{
 		//comments added
