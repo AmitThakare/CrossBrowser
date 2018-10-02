@@ -12,7 +12,7 @@ public class CrossBrowserTest {
 
 	public WebDriver driver;
 	
-	@BeforeClass
+	@BeforeClass//comments add
 	@Parameters("Browser")
 		public void ParallelTestExecute(String Browser)
 	{
