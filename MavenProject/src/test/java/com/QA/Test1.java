@@ -8,7 +8,7 @@ public class Test1 extends CrossBrowserTest {
 	@Test
 	public void setup()
 	{
-		
+		//comments added
 		driver.get("https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-server/2.53.0");
 		driver.close();
 	}
