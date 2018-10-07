@@ -4,7 +4,7 @@
   <test name="TestWithFirefox">
   <parameter name="Browser" value="Firefox"></parameter>
     <classes>
-      <class name="com.QA.Test1"/>
+      <class name="com.QA.CrossBrowserTest"/>
     </classes>
   </test> <!-- Test -->
   
@@ -12,7 +12,7 @@
   <test name="TestWithChrome">
    <parameter name="Browser" value="Chrome"></parameter>
     <classes>
-      <class name="com.QA.Test1"/>
+      <class name="com.QA.CrossBrowserTest"/>
     </classes>
   </test> <!-- Test -->
   
